@@ -1,1 +1,7 @@
-# Harige-Seuns-
+# We are the Harige-Seuns
+
+
+
+
+Kanban:
+
