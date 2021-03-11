@@ -7,5 +7,5 @@
 
 This is an edit to the file 
 =======
-this is the only difference
+~~this is the only difference~~ This has now been merged!
 
