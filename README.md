@@ -4,4 +4,8 @@
 
 #### We are almighty and powerful warlords of being hairy. We value pack-hunting, food, shelter (mostly caves) and other members of the Harige Seuns.
 
-this is the only difference
+
+This is an edit to the file 
+=======
+~~this is the only difference~~ This has now been merged!
+
