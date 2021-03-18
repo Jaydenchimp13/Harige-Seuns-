@@ -15,4 +15,8 @@ This is an edit to the file
 Respect, Communication, Honesty, Contribution, Inegrity, Reliability, Sportsmanship, Leadership, Readiness, Conservation 
 
 ### Principals that stem from our values
-Sauni, Kaitiakitanga
+Sauni (readiness), Kaitiakitanga (guardianship and respect for the environment), Professionalism
+
+### Meeting times
+
+like 1:00 every day
