@@ -17,6 +17,9 @@ Respect, Communication, Honesty, Contribution, Inegrity, Reliability, Sportsmans
 ### Principals that stem from our values
 Sauni (readiness), Kaitiakitanga (guardianship and respect for the environment), Professionalism
 
-### Meeting times
+### Expectations:
 
-like 1:00 every day
+- Meeting Times - 8:28pm every day
+- Atire - Full bright-yellow body armour (non-negotiable)
+- Stay - 60 hours a day
+- Brain Usage - We strongly recommend no more than 42.30% of your brain to be used at any one time during work hours to preserve energy over the 3 days you stay at work
